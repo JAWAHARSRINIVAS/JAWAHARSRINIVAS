@@ -1,5 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFa8NVnBnw/u2uinHqEx1uaLBW0E7q1Ag/view?utm_content=DAFa8NVnBnw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://rishavchanda.io)
-
+![logo](https://github.com/JAWAHARSRINIVAS/JAWAHARSRINIVAS/blob/main/github_Banner.png)
 
 <h1 align="center">Hi 👋, I'm JAWAHARSRINIVAS S</h1>
 <h3 align="center">A passionate frontend && Flutter developer || Java && Python Programmer from India</h3>
